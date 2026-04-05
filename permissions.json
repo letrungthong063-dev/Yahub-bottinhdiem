@@ -1,0 +1,38 @@
+{
+  "1409504111665086527": {
+    "enabled": true,
+    "allowedUsers": [
+      "1405918303968428203"
+    ],
+    "channel_id": 1409504112919449753
+  },
+  "1344216315832832002": {
+    "enabled": false,
+    "allowedUsers": [
+      "1405918303968428203"
+    ]
+  },
+  "1342051692732088433": {
+    "enabled": true,
+    "allowedUsers": [
+      "1197505644014604323"
+    ],
+    "public": true
+  },
+  "1475146109415457042": {
+    "enabled": true,
+    "allowedUsers": [],
+    "public": true
+  },
+  "1406211246931574886": {
+    "enabled": true,
+    "allowedUsers": [],
+    "public": true
+  },
+  "1480092712249069731": {
+    "enabled": true,
+    "allowedUsers": [],
+    "public": true,
+    "channel_id": 1480093968627929209
+  }
+}

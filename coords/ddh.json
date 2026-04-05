@@ -1,0 +1,26 @@
+{
+  "layout": "two_column",
+  "font_size": 65,
+  "time_font_size": 100,
+  "name_font_size": 80,
+  "time_x": 2374,
+  "time_y": 1050,
+  "time_color": "#820083",
+  "name_x": 1162,
+  "name_y": 3348,
+  "name_color": "#ffffff",
+  "left_team_x": 445,
+  "left_elims_x": 1241,
+  "left_booyah_x": 1514,
+  "left_total_x": 1765,
+  "left_y": [1805, 2000, 2222, 2430, 2640, 2850],
+  "left_logo_x": 295,
+  "right_team_x": 2413,
+  "right_elims_x": 3192,
+  "right_booyah_x": 3471,
+  "right_total_x": 3752,
+  "right_y": [1805, 2000, 2222, 2430, 2640, 2850],
+  "right_logo_x": 2263,
+  "logo_size": 100
+}
+
