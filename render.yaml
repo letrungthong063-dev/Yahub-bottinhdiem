@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: yahub-bottinhdiem
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python yahub-ltt-v32.py
