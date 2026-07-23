@@ -34,5 +34,10 @@
     "allowedUsers": [],
     "public": true,
     "channel_id": 1480093968627929209
+  },
+  "1504682711216820274": {
+    "enabled": true,
+    "allowedUsers": [],
+    "public": true
   }
 }
